@@ -1,0 +1,23 @@
+[
+    {
+        "token": "6961027858:AAHTlaLQ0TkjCu7JPwSceQ69V36rfWmK6UA",
+        "comando": "/start",
+        "message": "Olá! Bem-vindo ao meu bot."
+    },
+    {
+        "token": "6729902739:AAGdX2ekGn4GeIjx7tAGxA4quCjCWX_Fo4I",
+        "comando": "/help",
+        "message": "Este é um bot de ajuda. Como posso ajudá-lo?"
+    },
+    {
+        "token": "6729902739:AAGdX2ekGn4GeIjx7tAGxA4quCjCWX_Fo4I",
+        "comando": "/info",
+        "message": "Informações sobre o bot."
+    },
+    {
+        "token": "6729902739:AAGdX2ekGn4GeIjx7tAGxA4quCjCWX_Fo4I",
+        "comando": "/sobre",
+        "message": "Este bot foi criado para fornecer informações."
+    }
+    
+]
